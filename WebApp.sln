@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{77E385C9-4043-49FD-B06B-DD89A7048A9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{01813409-0B04-48EB-8739-474FE51EF7AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B092451B-1985-4954-9D0E-7D33045C84A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77E385C9-4043-49FD-B06B-DD89A7048A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E385C9-4043-49FD-B06B-DD89A7048A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E385C9-4043-49FD-B06B-DD89A7048A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E385C9-4043-49FD-B06B-DD89A7048A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01813409-0B04-48EB-8739-474FE51EF7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01813409-0B04-48EB-8739-474FE51EF7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01813409-0B04-48EB-8739-474FE51EF7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01813409-0B04-48EB-8739-474FE51EF7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B092451B-1985-4954-9D0E-7D33045C84A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B092451B-1985-4954-9D0E-7D33045C84A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B092451B-1985-4954-9D0E-7D33045C84A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B092451B-1985-4954-9D0E-7D33045C84A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90143241-7E42-4275-9D37-F3F53FB6F8F8}
+	EndGlobalSection
+EndGlobal
